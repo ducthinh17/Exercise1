@@ -2,6 +2,9 @@
 <h2 align="center">My group's name: God of War </h2>
 <h3 align="center">This will be an stunning thing if your childhood is rushed back! ✨✨</h3>
 
+<p><img align="right” alt = "gif” src = ""https://drive.google.com/file/d/1NISKwoR169dNHUzcW7TKbUVA_WmRyTDV/preview" width="640" height="480" /></p>
+
+
 - 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
 - 🌱 Ho Duong built up the game's operating structure and control a game[Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
