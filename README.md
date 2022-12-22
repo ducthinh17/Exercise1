@@ -2,7 +2,7 @@
 <h2 align="center">My group's name: God of War </h2>
 <h3 align="center">This will be an stunning thing if your childhood is rushed back! ✨✨</h3>
 
-<p><img align="right” alt = "gif” src = "https://giphy.com/embed/l3978y5HqiEtqupiM" width="640" height="480" /></p>
+<p><img align="right” alt = "gif" src = "https://github.com/ducthinh17/Exercise1/blob/main/demo.gif" width="640" height="480" /></p>
 
 - 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
 
