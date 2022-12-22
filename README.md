@@ -1,6 +1,6 @@
 <h1 align="center">Wellcome to SpaceInvaders 👋 </h1>
 <h2 align="center">My group's name: God of War </h2>
-<h3 align="center">This will be an stunning thing if your childhood is rushed back! ✨✨</h3>
+<h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
 
 <p><img align="right” alt = "gif" src = "https://github.com/ducthinh17/Exercise1/blob/main/demo.gif" width="640" height="480" /></p>
 
