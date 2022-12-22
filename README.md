@@ -1,4 +1,5 @@
-<h1 align="center">Wellcome to SpaceInvaders 👋 My group's name: God of War</h1>
+<h1 align="center">Wellcome to SpaceInvaders 👋 </h1>
+<h1 align="center">My group's name: God of War </h1>
 <h3 align="center">This will be an stunning thing if your childhood is rushed back! ✨✨</h3>
 
 - 🔭 Duc Thinh built up the foundation [Space Invaders](https://trello.com/b/oDNva2Dq/gameoop)
